@@ -1,1 +1,3 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+// Creación de arreglo que va a almacenar los nombres.
+// Se declara global para que las funciones tengan acceso.
+let arregloNombre = [];
